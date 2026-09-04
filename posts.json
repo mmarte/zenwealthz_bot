@@ -273,5 +273,40 @@
       },
       "executed_at": "2026-09-04T19:11:53.042040+00:00"
     }
+  },
+  {
+    "id": "zen-20260904224648",
+    "status": "skipped",
+    "type": "insight",
+    "content": "A simple budget system can reduce money stress faster than a new income stream.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-09-04T22:46:48.142603+00:00",
+    "scheduled_at": "2026-09-04T22:46:48.142613+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20260904224648",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-09-04T22:46:48.293116+00:00"
+    }
   }
 ]
