@@ -413,5 +413,40 @@
       },
       "executed_at": "2026-09-05T18:39:17.626855+00:00"
     }
+  },
+  {
+    "id": "zen-20260905223826",
+    "status": "skipped",
+    "type": "insight",
+    "content": "Small consistency beats big motivation when it comes to money.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-09-05T22:38:26.557091+00:00",
+    "scheduled_at": "2026-09-05T22:38:26.557098+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20260905223826",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-09-05T22:38:26.705866+00:00"
+    }
   }
 ]
