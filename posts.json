@@ -553,5 +553,40 @@
       },
       "executed_at": "2026-09-06T18:43:05.471685+00:00"
     }
+  },
+  {
+    "id": "zen-20260906224149",
+    "status": "skipped",
+    "type": "insight",
+    "content": "Your money grows when your habits become automatic and predictable.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-09-06T22:41:49.461285+00:00",
+    "scheduled_at": "2026-09-06T22:41:49.461291+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20260906224149",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-09-06T22:41:49.613069+00:00"
+    }
   }
 ]
