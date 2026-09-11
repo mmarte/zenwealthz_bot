@@ -1148,5 +1148,40 @@
       },
       "executed_at": "2026-09-10T22:56:16.438589+00:00"
     }
+  },
+  {
+    "id": "zen-20260911052104",
+    "status": "skipped",
+    "type": "insight",
+    "content": "Wealth is often built by protecting what you already earn, not only by earning more.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-09-11T05:21:04.703734+00:00",
+    "scheduled_at": "2026-09-11T05:21:04.703741+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20260911052104",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-09-11T05:21:05.136887+00:00"
+    }
   }
 ]
