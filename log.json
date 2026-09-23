@@ -1741,5 +1741,26 @@
       }
     },
     "executed_at": "2026-09-23T17:41:47.691852+00:00"
+  },
+  {
+    "status": "skipped",
+    "post_id": "zen-20260923195425",
+    "platforms": {
+      "facebook": {
+        "status": "skipped",
+        "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+      },
+      "x": {
+        "status": "skipped",
+        "platform": "x",
+        "error": "Missing X_BEARER_TOKEN"
+      },
+      "instagram": {
+        "status": "skipped",
+        "platform": "instagram",
+        "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+      }
+    },
+    "executed_at": "2026-09-23T19:54:25.762096+00:00"
   }
 ]
