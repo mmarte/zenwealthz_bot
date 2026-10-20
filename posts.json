@@ -6713,5 +6713,40 @@
       },
       "executed_at": "2026-10-20T20:11:43.387375+00:00"
     }
+  },
+  {
+    "id": "zen-20261020233734",
+    "status": "skipped",
+    "type": "insight",
+    "content": "The best financial habits are boring, repeatable, and easy to maintain.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-10-20T23:37:34.572922+00:00",
+    "scheduled_at": "2026-10-20T23:37:34.572930+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20261020233734",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-10-20T23:37:34.834083+00:00"
+    }
   }
 ]
