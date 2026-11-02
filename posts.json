@@ -8463,5 +8463,40 @@
       },
       "executed_at": "2026-11-02T06:56:02.677908+00:00"
     }
+  },
+  {
+    "id": "zen-20261102220736",
+    "status": "skipped",
+    "type": "insight",
+    "content": "Financial confidence starts with one calm, repeatable decision at a time.\n\nWhat is one money habit you want to improve this month?",
+    "created_at": "2026-11-02T22:07:36.500114+00:00",
+    "scheduled_at": "2026-11-02T22:07:36.500121+00:00",
+    "brand": "ZenWealthz",
+    "platforms": [
+      "facebook",
+      "x",
+      "instagram"
+    ],
+    "pub_result": {
+      "status": "skipped",
+      "post_id": "zen-20261102220736",
+      "platforms": {
+        "facebook": {
+          "status": "skipped",
+          "error": "Missing FB_PAGE_ID or FB_PAGE_TOKEN"
+        },
+        "x": {
+          "status": "skipped",
+          "platform": "x",
+          "error": "Missing X_BEARER_TOKEN"
+        },
+        "instagram": {
+          "status": "skipped",
+          "platform": "instagram",
+          "error": "Missing IG_USER_ID or IG_ACCESS_TOKEN"
+        }
+      },
+      "executed_at": "2026-11-02T22:07:36.746422+00:00"
+    }
   }
 ]
